@@ -11,3 +11,6 @@ MVC concepts by building an eCommerce website.
 
 ## Helpful Tutorials
 - [Getting started with ASP.NET Core MVC and EF Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-6.0)
+
+## The eCommerce site
+![eCommerce HomePage](docs/HomePageScreenshot.png)
